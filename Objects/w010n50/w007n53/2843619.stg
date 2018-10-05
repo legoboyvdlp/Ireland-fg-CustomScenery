@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -6.110533 53.511861 3.98 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.0043272 53.5967807 -4.95 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -6.031183 53.5037 -0.66 84.46

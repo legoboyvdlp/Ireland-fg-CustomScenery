@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Misc/generic_church_02.ac -10.01987874 53.48962184 29.23 0
+OBJECT_SHARED Models/Misc/generic_church_03.ac -10.02442255 53.48892368 31.91 24
+OBJECT_SHARED Models/Maritime/Civilian/D_Class_IRB.xml -10.04629 53.46136 0 0
+OBJECT_STATIC Slyne_Head_Lighthouse.xml -10.2337528 53.3996921 1 104

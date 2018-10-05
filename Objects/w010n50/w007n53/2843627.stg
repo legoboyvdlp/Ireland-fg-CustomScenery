@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -6.226669 53.648111 15.71 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -6.234914 53.646817 18.2 180
+OBJECT_SHARED Models/Maritime/Civilian/Mersey_Lifeboat.xml -6.23374 53.72134 -0.33 270
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -6.180984 53.631866 -0.67 170.76
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -6.2388 53.7225333 0 224.61
