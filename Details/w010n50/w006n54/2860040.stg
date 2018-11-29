@@ -1,0 +1,10 @@
+# piers_w010n50_w006n54_2860040
+# do not edit below this line
+# Last Written Thu Nov 29 16:39:52 2018
+#
+OBJECT_STATIC w010n50_w006n54_2860040piers0304.ac -5.89277 54.20586 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -5.88470 54.19737 -0.01 -126.357
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -5.88399 54.19802 -0.01 352.856
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -5.88412 54.19837 -0.01 342.34
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -5.88588 54.19807 -0.00 -109.332
+# END piers_w010n50_w006n54_2860040

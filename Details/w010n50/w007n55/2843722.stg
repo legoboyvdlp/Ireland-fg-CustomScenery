@@ -1,0 +1,14 @@
+# pylonsDetails_w010n50_w007n55_2843722
+# do not edit below this line
+# Last Written Thu Nov 29 16:36:51 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49019 55.16602 72.49 138.164
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49058 55.16622 71.67 139.631
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49160 55.16669 71.13 140.65
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49398 55.16783 67.10 143.688
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49462 55.16806 65.19 140.09
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49616 55.16900 60.12 138.554
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49747 55.16955 57.95 169.768
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49922 55.16927 56.78 194.817
+OBJECT_STATIC w010n50_w007n55_2843722dcables00003.ac -6.49510 55.16779 64.03 90
+# END pylonsDetails_w010n50_w007n55_2843722

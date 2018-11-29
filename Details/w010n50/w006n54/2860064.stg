@@ -1,11 +1,17 @@
-# pylonsDetails_w010n50\w006n54\2860064
+# platforms_w010n50_w007n54_2843683
 # do not edit below this line
-# Last Written Fri Nov 16 09:15:56 2018
+# Last Written Thu Nov 29 16:15:40 2018
 #
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86776 54.57600 54.74 130.584
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86792 54.57611 53.81 130.584
+OBJECT_STATIC w010n50_w007n54_2843683platforms0802.ac -5.98720 54.54492 0.00 0
+# END platforms_w010n50_w007n54_2843683
+# pylonsDetails_w010n50_w006n54_2860064
+# do not edit below this line
+# Last Written Thu Nov 29 17:32:42 2018
+#
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86814 54.57599 53.85 308.849
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86800 54.57589 54.69 308.849
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86776 54.57600 54.74 130.584
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86792 54.57611 53.81 130.584
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.87872 54.56251 105.24 278.355
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.87866 54.56229 105.92 278.36
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.87863 54.56214 106.39 278.355
@@ -58,7 +64,24 @@ OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.98854 54.51829 43.29 170.583
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.99068 54.51849 37.88 170.798
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.99228 54.51864 32.72 170.974
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.99385 54.51879 29.33 171.132
-OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83721 54.54961 94.29 119.956
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.81799 54.53462 69.02 132.465
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.81860 54.53501 68.76 134.606
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82010 54.53583 71.70 137.221
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82140 54.53652 72.05 137.375
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82296 54.53736 76.19 136.71
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82424 54.53807 85.15 136.331
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82559 54.53882 92.37 135.157
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82690 54.53961 87.79 134.205
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82835 54.54047 82.87 126.779
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82926 54.54141 80.77 119.057
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.82985 54.54203 82.93 119.559
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83116 54.54334 88.76 120.125
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83190 54.54409 88.60 119.922
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83279 54.54499 88.76 119.427
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83437 54.54664 86.31 118.895
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83532 54.54764 89.60 118.96
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83625 54.54861 92.14 119.256
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83721 54.54961 94.29 119.625
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83811 54.55051 94.58 119.5
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83899 54.55144 98.78 119.308
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.83975 54.55222 99.14 119.209
@@ -96,37 +119,39 @@ OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86143 54.57306 97.38 103.408
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86172 54.57375 90.57 103.408
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86143 54.57306 97.38 98.6028
 OBJECT_SHARED Models/Power/wooden_pole_14m.ac -5.86163 54.57381 90.72 98.6028
-OBJECT_STATIC dcables00001.ac -5.97790 54.51764 56.38 90
-OBJECT_STATIC dcables00002.ac -5.98970 54.51840 36.31 90
-OBJECT_STATIC dcables00008.ac -5.96492 54.51736 90.73 90
-OBJECT_STATIC dcables00025.ac -5.87808 54.56228 106.62 90
-OBJECT_STATIC dcables00032.ac -5.85327 54.56500 115.15 90
-OBJECT_STATIC dcables00033.ac -5.86453 54.57420 78.21 90
-OBJECT_STATIC dcables00038.ac -5.83974 54.55223 101.74 90
-OBJECT_STATIC dcables00039.ac -5.84395 54.55628 113.21 90
-# END pylonsDetails_w010n50\w006n54\2860064
-# platforms_w010n50\w006n54\2860064
+OBJECT_STATIC w010n50_w006n54_2860064dcables00001.ac -5.97790 54.51764 56.38 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00002.ac -5.98970 54.51840 36.31 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00008.ac -5.96492 54.51736 90.73 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00025.ac -5.87808 54.56228 106.62 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00032.ac -5.85327 54.56500 115.15 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00033.ac -5.86453 54.57420 78.21 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00037.ac -5.81970 54.53557 70.40 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00038.ac -5.83184 54.54568 90.62 90
+OBJECT_STATIC w010n50_w006n54_2860064dcables00039.ac -5.84395 54.55628 113.21 90
+# END pylonsDetails_w010n50_w006n54_2860064
+# platforms_w010n50_w006n54_2860064
 # do not edit below this line
-# Last Written Fri Nov 16 09:15:56 2018
+# Last Written Thu Nov 29 17:32:43 2018
 #
-OBJECT_STATIC splatforms0003.ac -5.98454 54.56288 0.00 0
-OBJECT_STATIC splatforms0103.ac -5.95362 54.56288 0.00 0
-OBJECT_STATIC splatforms0104.ac -5.95362 54.58085 0.00 0
-OBJECT_STATIC splatforms0105.ac -5.95362 54.59882 0.00 0
-OBJECT_STATIC splatforms0204.ac -5.92271 54.58085 0.00 0
-OBJECT_STATIC splatforms0205.ac -5.92271 54.59882 0.00 0
-OBJECT_STATIC splatforms0206.ac -5.92271 54.61679 0.00 0
-OBJECT_STATIC splatforms0306.ac -5.89179 54.61679 0.00 0
-OBJECT_STATIC splatforms0406.ac -5.86087 54.61679 0.00 0
-# END platforms_w010n50\w006n54\2860064
-# piers_w010n50\w006n54\2860064
+OBJECT_STATIC w010n50_w006n54_2860064platforms0003.ac -5.98454 54.56288 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0103.ac -5.95362 54.56288 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0104.ac -5.95362 54.58085 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0105.ac -5.95362 54.59882 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0204.ac -5.92271 54.58085 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0205.ac -5.92271 54.59882 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0206.ac -5.92271 54.61679 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0306.ac -5.89179 54.61679 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064platforms0406.ac -5.86087 54.61679 0.00 0
+# END platforms_w010n50_w006n54_2860064
+# piers_w010n50_w006n54_2860064
 # do not edit below this line
-# Last Written Fri Nov 16 09:15:57 2018
+# Last Written Thu Nov 29 17:32:43 2018
 #
-OBJECT_STATIC piers0102.ac -5.95362 54.54492 0.00 0
-OBJECT_STATIC piers0205.ac -5.92271 54.59882 0.00 0
-OBJECT_STATIC piers0206.ac -5.92271 54.61679 0.00 0
-OBJECT_STATIC piers0306.ac -5.89179 54.61679 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064piers0102.ac -5.95362 54.54492 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064piers0204.ac -5.92271 54.58085 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064piers0205.ac -5.92271 54.59882 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064piers0206.ac -5.92271 54.61679 0.00 0
+OBJECT_STATIC w010n50_w006n54_2860064piers0306.ac -5.89179 54.61679 0.00 0
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -5.89457 54.61147 -0.00 40.7981
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.90187 54.61482 0.00 134.579
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -5.90194 54.61466 0.00 133.697
@@ -175,22 +200,23 @@ OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -5.88722 54.61572 0.0
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.87999 54.60950 -0.00 65.5428
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.88018 54.60946 -0.00 -25.8191
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -5.88007 54.60956 -0.00 -25.8353
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.91850 54.58916 1.00 120.088
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac -5.88705 54.61745 -0.00 90.6767
-OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac -5.88748 54.61720 -0.00 180.732
-OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -5.88719 54.61690 -0.00 90.7119
-OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -5.88748 54.61774 -0.00 180.729
-OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -5.88715 54.61829 -0.00 270.718
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -5.88704 54.61772 -0.00 270.726
-OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -5.88705 54.61745 -0.00 90.6767
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -5.88748 54.61720 -0.00 180.732
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -5.88719 54.61690 -0.00 90.7119
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -5.88748 54.61774 -0.00 180.729
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -5.88715 54.61829 -0.00 270.718
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -5.88704 54.61772 -0.00 270.726
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -5.88705 54.61745 -0.00 90.6767
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.95192 54.55371 5.09 124.378
-OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.95193 54.55365 5.09 124.296
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -5.95193 54.55365 5.09 124.296
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -5.92137 54.60072 3.06 112.092
-OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -5.92126 54.60044 3.05 296.99
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.92126 54.60044 3.05 296.99
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.92132 54.60065 3.05 116.449
-OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -5.92131 54.60051 3.05 176.721
-OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -5.92125 54.60042 3.05 27.5685
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -5.92131 54.60051 3.05 176.721
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.92125 54.60042 3.05 27.5685
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.92115 54.60042 3.05 27.5397
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -5.92110 54.60046 3.05 296.908
-OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -5.92114 54.60232 3.06 192.094
-OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -5.92140 54.60190 5.11 11.2898
-# END piers_w010n50\w006n54\2860064
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -5.92114 54.60232 3.06 192.094
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac -5.92140 54.60190 5.11 11.2898
+# END piers_w010n50_w006n54_2860064

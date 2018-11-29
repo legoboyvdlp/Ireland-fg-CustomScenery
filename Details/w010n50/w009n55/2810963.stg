@@ -1,0 +1,21 @@
+# piers_w010n50_w009n55_2810963
+# do not edit below this line
+# Last Written Thu Nov 29 13:27:29 2018
+#
+OBJECT_STATIC w010n50_w009n55_2810963piers0000.ac -8.23425 55.25898 0.00 0
+OBJECT_STATIC w010n50_w009n55_2810963piers0100.ac -8.20275 55.25898 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -8.19483 55.25590 0.00 251.374
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -8.19437 55.25579 0.00 329.877
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -8.22642 55.26296 -0.00 91.9727
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.22629 55.26322 -0.00 272.52
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.22642 55.26296 -0.00 91.9727
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22645 55.26351 -0.00 189.705
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22690 55.26347 -0.00 10.0204
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22645 55.26351 -0.00 189.705
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22690 55.26347 -0.00 10.0204
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22645 55.26351 -0.00 189.705
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -8.22700 55.26423 -0.00 171.561
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -8.22645 55.26351 -0.00 189.705
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.22642 55.26296 -0.00 91.9727
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.22629 55.26322 -0.00 272.52
+# END piers_w010n50_w009n55_2810963

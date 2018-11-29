@@ -1,0 +1,43 @@
+# pylons_w010n50_w007n55_2843713
+# do not edit below this line
+# Last Written Thu Nov 29 16:34:14 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49999 55.10019 31.38 381.783
+# END pylons_w010n50_w007n55_2843713
+# pylons_w010n50_w007n55_2843714
+# do not edit below this line
+# Last Written Thu Nov 29 16:36:06 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.49999 55.10019 31.38 381.995
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.49879 55.10047 33.43 381.479
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.49157 55.10206 31.50 380.924
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.48849 55.10273 29.51 380.879
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.48679 55.10310 29.96 381.137
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.48415 55.10369 29.59 380.641
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.48288 55.10396 29.38 380.67
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.48136 55.10430 29.73 381.458
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49994 55.08160 55.89 408.244
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49883 55.08232 52.08 408.49
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49770 55.08305 52.91 408.777
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49523 55.08468 51.67 408.024
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49405 55.08541 48.24 408.054
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49304 55.08608 45.93 408.334
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49165 55.08695 45.28 408.053
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49036 55.08779 44.46 409.312
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.48960 55.08831 43.74 407.492
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.48898 55.08866 44.01 404.676
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49958 55.09404 51.18 354.126
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49789 55.09394 55.11 354.298
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49623 55.09385 59.91 381.68
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49532 55.09445 61.27 381.808
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -6.49219 55.09429 69.55 354.726
+OBJECT_BUILDING_MESH_DETAILED w010n50_w007n55_2843714cables00005.ac -6.49446 55.08513 49.82 90
+OBJECT_BUILDING_MESH_DETAILED w010n50_w007n55_2843714cables00006.ac -6.49067 55.09908 49.46 90
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac -6.43065 55.09303 81.71 0
+# END pylons_w010n50_w007n55_2843714
+# pylons_w010n50_w007n55_2843722
+# do not edit below this line
+# Last Written Thu Nov 29 16:36:51 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -6.44474 55.12424 38.07 230.288
+# END pylons_w010n50_w007n55_2843722

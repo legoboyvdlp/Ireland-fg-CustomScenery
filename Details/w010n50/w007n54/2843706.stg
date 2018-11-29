@@ -1,0 +1,35 @@
+# pylonsDetails_w010n50_w007n54_2843706
+# do not edit below this line
+# Last Written Thu Nov 29 15:35:31 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49323 54.96613 56.31 286.742
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49292 54.96555 57.71 288.024
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49253 54.96491 58.94 288.508
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49204 54.96402 60.41 287.582
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49186 54.96370 60.92 291.503
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49126 54.96298 62.09 295.644
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49073 54.96234 62.70 294.763
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49030 54.96178 63.84 279.308
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49045 54.96078 62.28 239.271
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49135 54.96044 59.11 213.937
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49297 54.95980 53.64 210.432
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49482 54.95927 46.78 193.67
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49651 54.95926 45.34 179.926
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49875 54.95927 50.72 183.433
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.49969 54.95920 49.98 184.912
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.38132 54.98692 119.81 299.543
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.38109 54.98668 119.46 297.525
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.38088 54.98643 119.13 288.11
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.38059 54.98554 118.95 280.702
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.38044 54.98508 118.89 280.691
+OBJECT_STATIC w010n50_w007n54_2843706dcables00005.ac -6.49559 54.96160 54.59 90
+OBJECT_STATIC w010n50_w007n54_2843706dcables00006.ac -6.49263 54.96508 58.36 90
+OBJECT_STATIC w010n50_w007n54_2843706dcables00028.ac -6.38088 54.98600 119.35 90
+# END pylonsDetails_w010n50_w007n54_2843706
+# platforms_w010n50_w007n54_2843706
+# do not edit below this line
+# Last Written Thu Nov 29 15:35:31 2018
+#
+OBJECT_STATIC w010n50_w007n54_2843706platforms0400.ac -6.35958 54.88398 0.00 0
+OBJECT_STATIC w010n50_w007n54_2843706platforms0406.ac -6.35958 54.99178 0.00 0
+# END platforms_w010n50_w007n54_2843706

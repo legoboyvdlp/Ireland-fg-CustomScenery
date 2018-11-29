@@ -1,0 +1,12 @@
+# pylons_w010n50_w007n54_2843682
+# do not edit below this line
+# Last Written Thu Nov 29 15:24:58 2018
+#
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -6.27153 54.62175 30.46 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -6.29027 54.61162 19.82 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -6.29006 54.61146 20.84 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -6.28986 54.61130 21.86 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -6.29047 54.61100 22.42 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -6.28980 54.61157 20.65 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac -6.29084 54.61124 20.13 0
+# END pylons_w010n50_w007n54_2843682

@@ -1,0 +1,10 @@
+# pylonsDetails_w010n50_w008n54_2827299
+# do not edit below this line
+# Last Written Thu Nov 29 14:16:54 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.24994 54.59897 95.53 426.973
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.24903 54.60021 97.49 426.143
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.24814 54.60134 95.02 91.3517
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.24902 54.60233 91.01 117.45
+OBJECT_STATIC w010n50_w008n54_2827299dcables00006.ac -7.24911 54.60124 92.50 90
+# END pylonsDetails_w010n50_w008n54_2827299

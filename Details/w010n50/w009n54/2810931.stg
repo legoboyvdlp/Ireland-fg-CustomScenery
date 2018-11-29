@@ -1,0 +1,22 @@
+# pylonsDetails_w010n50_w009n54_2810931
+# do not edit below this line
+# Last Written Thu Nov 29 13:21:47 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.16840 54.85328 137.05 259.312
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.16855 54.85284 132.67 217.915
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.17000 54.85289 136.00 176.518
+OBJECT_STATIC w010n50_w009n54_2810931dcables00020.ac -8.16920 54.85306 134.86 90
+# END pylonsDetails_w010n50_w009n54_2810931
+# platforms_w010n50_w009n54_2810931
+# do not edit below this line
+# Last Written Thu Nov 29 13:21:47 2018
+#
+OBJECT_STATIC w010n50_w009n54_2810931platforms0406.ac -8.11001 54.86678 0.00 0
+# END platforms_w010n50_w009n54_2810931
+# piers_w010n50_w009n54_2810931
+# do not edit below this line
+# Last Written Thu Nov 29 13:21:47 2018
+#
+OBJECT_STATIC w010n50_w009n54_2810931piers0406.ac -8.11001 54.86678 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -8.11966 54.86694 129.00 111.945
+# END piers_w010n50_w009n54_2810931

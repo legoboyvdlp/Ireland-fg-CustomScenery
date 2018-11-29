@@ -1,0 +1,7 @@
+# pylons_w010n50_w009n54_2810890
+# do not edit below this line
+# Last Written Thu Nov 29 12:58:28 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -8.50126 54.21647 24.08 192.381
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -8.50124 54.16145 40.36 120.693
+# END pylons_w010n50_w009n54_2810890

@@ -1,0 +1,12 @@
+# piers_w010n50_w008n55_2827336
+# do not edit below this line
+# Last Written Thu Nov 29 14:22:33 2018
+#
+OBJECT_STATIC w010n50_w008n55_2827336piers0403.ac -7.85870 55.18788 0.00 0
+OBJECT_STATIC w010n50_w008n55_2827336piers0504.ac -7.82730 55.20584 0.00 0
+OBJECT_STATIC w010n50_w008n55_2827336piers0604.ac -7.79590 55.20584 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -7.84256 55.18999 0.00 -34.6495
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -7.81382 55.19845 -0.00 96.134
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -7.81387 55.19852 -0.01 7.81099
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -7.78008 55.20393 0.00 49.4572
+# END piers_w010n50_w008n55_2827336

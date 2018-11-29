@@ -1,0 +1,51 @@
+# pylonsDetails_w010n50_w009n54_2810922
+# do not edit below this line
+# Last Written Thu Nov 29 13:06:15 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.26685 54.71874 158.41 146.156
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.26761 54.71903 158.43 141.627
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.26970 54.72016 163.34 143.952
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.27250 54.72106 163.85 161.227
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.27352 54.72115 161.36 153.293
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.27403 54.72145 162.27 149.161
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.27743 54.72204 158.01 163.383
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.29943 54.69752 168.64 98.4322
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.29962 54.69826 168.41 97.4901
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.29971 54.69872 167.98 97.3946
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.29982 54.69917 167.21 98.2395
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30007 54.70016 167.47 98.2404
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30030 54.70105 167.62 98.3218
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30050 54.70184 166.24 97.5223
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30066 54.70265 161.85 270.588
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30050 54.70364 157.77 438.757
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30014 54.70431 157.46 95.9339
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30095 54.70516 151.81 118.887
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43423 54.64826 41.28 261.244
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43440 54.64762 36.69 260.419
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43460 54.64699 35.83 264.364
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43462 54.64628 36.46 269.134
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43283 54.65152 36.92 241.151
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43348 54.65083 41.43 239.408
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43410 54.65027 43.76 238.911
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43458 54.64979 46.52 223.78
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43521 54.64960 47.20 222.392
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43562 54.64922 43.10 237.381
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43410 54.65027 43.76 363.034
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43368 54.65028 43.95 360.973
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.43298 54.65027 44.40 358.912
+OBJECT_STATIC w010n50_w009n54_2810922dcables00016.ac -8.43423 54.64890 41.51 90
+OBJECT_STATIC w010n50_w009n54_2810922dcables00047.ac -8.30019 54.70134 160.23 90
+OBJECT_STATIC w010n50_w009n54_2810922dcables00055.ac -8.27214 54.72039 160.93 90
+# END pylonsDetails_w010n50_w009n54_2810922
+# piers_w010n50_w009n54_2810922
+# do not edit below this line
+# Last Written Thu Nov 29 13:06:15 2018
+#
+OBJECT_STATIC w010n50_w009n54_2810922piers0000.ac -8.48449 54.63398 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -8.47732 54.62526 1.42 115.607
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -8.47732 54.62526 1.42 115.607
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -8.47734 54.62557 1.42 264.517
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.47674 54.62534 1.42 347.257
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -8.47674 54.62534 1.42 347.257
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -8.47732 54.62526 1.42 115.607
+# END piers_w010n50_w009n54_2810922

@@ -1,0 +1,74 @@
+# pylonsDetails_w010n50_w007n54_2843675
+# do not edit below this line
+# Last Written Thu Nov 29 15:56:42 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.22274 54.49215 38.18 255.285
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.22355 54.49036 39.82 255.285
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.18760 54.49557 41.13 279.642
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.18757 54.49546 40.42 279.643
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.18740 54.49489 39.67 279.644
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06876 54.47783 77.82 423.696
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06822 54.47847 73.36 423.528
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06745 54.47936 58.07 422.76
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06633 54.48060 49.74 430.091
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06600 54.48152 46.05 438.002
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06566 54.48244 43.85 437.155
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06516 54.48363 41.02 436.59
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06484 54.48444 39.13 437.154
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06450 54.48533 37.46 437.412
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06422 54.48605 36.05 438.018
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06402 54.48662 37.16 423.162
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06296 54.48730 38.37 428.113
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06292 54.48830 40.83 92.8149
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06300 54.48867 41.30 97.0597
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06281 54.48544 35.27 174.793
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06363 54.48549 35.76 185.872
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06450 54.48533 37.46 196.95
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05878 54.49003 37.66 240.18
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05949 54.48930 44.22 239.963
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06024 54.48856 42.26 240.307
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06032 54.48847 41.46 237.103
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06127 54.48772 37.95 234.149
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06218 54.48697 36.37 237.663
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06363 54.48549 35.76 244.973
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06429 54.48445 38.32 258.776
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06433 54.48375 39.65 267.783
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06440 54.48282 42.25 267.112
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06445 54.48229 44.20 290.126
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06328 54.48157 49.16 314.32
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06231 54.48100 53.28 317.437
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.06116 54.48044 59.51 320.282
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05927 54.47954 61.46 320.786
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05790 54.47889 72.12 320.692
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05498 54.47748 76.77 320.568
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05396 54.47700 79.40 329.011
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05282 54.47672 81.95 337.924
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05149 54.47641 82.95 337.209
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05055 54.47617 81.84 337.25
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.04915 54.47585 82.35 338.525
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05282 54.47672 81.95 272.157
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05279 54.47626 82.84 257.52
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05351 54.47544 81.43 238.648
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05469 54.47449 77.20 234.834
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05624 54.47318 80.66 234.363
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -6.05701 54.47257 83.80 233.471
+OBJECT_STATIC w010n50_w007n54_2843675dcables00007.ac -6.22314 54.49125 39.00 90
+OBJECT_STATIC w010n50_w007n54_2843675dcables00021.ac -6.18750 54.49523 40.40 90
+OBJECT_STATIC w010n50_w007n54_2843675dcables00041.ac -6.06696 54.48073 59.42 90
+OBJECT_STATIC w010n50_w007n54_2843675dcables00042.ac -6.06500 54.48403 40.08 90
+OBJECT_STATIC w010n50_w007n54_2843675dcables00048.ac -6.05680 54.47743 64.00 90
+OBJECT_STATIC w010n50_w007n54_2843675dcables00049.ac -6.06181 54.48616 39.74 90
+# END pylonsDetails_w010n50_w007n54_2843675
+# platforms_w010n50_w007n54_2843675
+# do not edit below this line
+# Last Written Thu Nov 29 15:56:42 2018
+#
+OBJECT_STATIC w010n50_w007n54_2843675platforms0106.ac -6.20377 54.49179 0.00 0
+# END platforms_w010n50_w007n54_2843675
+# piers_w010n50_w007n54_2843675
+# do not edit below this line
+# Last Written Thu Nov 29 15:56:43 2018
+#
+OBJECT_STATIC w010n50_w007n54_2843675piers0405.ac -6.11130 54.47382 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -6.12300 54.47948 33.40 129.973
+# END piers_w010n50_w007n54_2843675

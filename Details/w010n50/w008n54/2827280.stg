@@ -1,0 +1,35 @@
+# pylonsDetails_w010n50_w008n54_2827280
+# do not edit below this line
+# Last Written Thu Nov 29 13:33:54 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.97880 54.28225 76.19 243.072
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.97944 54.28151 79.64 224.46
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98095 54.28109 81.34 205.847
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98876 54.27697 88.33 357.799
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98732 54.27693 86.12 357.796
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98563 54.27690 84.71 357.719
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98252 54.27682 88.02 358.094
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.98109 54.27680 84.84 358.543
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99992 54.27667 89.56 390.604
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99866 54.27710 85.73 391.508
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99728 54.27762 82.37 391.909
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99587 54.27812 80.86 378.8
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99516 54.27816 80.27 380.955
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -7.99456 54.27841 79.03 395.716
+OBJECT_STATIC w010n50_w008n54_2827280dcables00002.ac -7.98936 54.27946 82.87 90
+# END pylonsDetails_w010n50_w008n54_2827280
+# piers_w010n50_w008n54_2827280
+# do not edit below this line
+# Last Written Thu Nov 29 13:33:54 2018
+#
+OBJECT_STATIC w010n50_w008n54_2827280piers0004.ac -7.98464 54.33085 0.00 0
+OBJECT_STATIC w010n50_w008n54_2827280piers0202.ac -7.92318 54.29492 0.00 0
+OBJECT_STATIC w010n50_w008n54_2827280piers0302.ac -7.89245 54.29492 0.00 0
+OBJECT_STATIC w010n50_w008n54_2827280piers0602.ac -7.80026 54.29492 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -7.80838 54.29349 47.00 42.0561
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -7.88659 54.30228 48.00 121.996
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -7.88902 54.30227 48.00 176.527
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -7.97854 54.32991 48.18 56.6048
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -7.91363 54.29014 48.00 -21.974
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -7.91332 54.29036 48.00 41.3505
+# END piers_w010n50_w008n54_2827280

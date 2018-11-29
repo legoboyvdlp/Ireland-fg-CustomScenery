@@ -1,0 +1,11 @@
+# pylons_w010n50_w008n54_2827264
+# do not edit below this line
+# Last Written Thu Nov 29 13:32:29 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -7.97829 54.04805 90.04 332.15
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -7.97692 54.04762 87.14 331.88
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -7.97323 54.04645 89.42 331.698
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -7.97199 54.04606 88.33 328.576
+OBJECT_SHARED Models/Power/generic_pylon_25m.xml -7.97086 54.04560 80.09 325.366
+OBJECT_BUILDING_MESH_DETAILED w010n50_w008n54_2827264cables00003.ac -7.97458 54.04682 85.07 90
+# END pylons_w010n50_w008n54_2827264

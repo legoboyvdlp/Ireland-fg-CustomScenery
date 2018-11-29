@@ -1,0 +1,32 @@
+# pylonsDetails_w010n50_w009n54_2810930
+# do not edit below this line
+# Last Written Thu Nov 29 13:08:08 2018
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.30899 54.77446 88.65 147.809
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31179 54.77548 71.91 146.692
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31432 54.77648 59.91 133.171
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31554 54.77767 56.59 131.613
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31709 54.77835 52.22 142.457
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.38261 54.78221 21.09 382.094
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.38129 54.78252 21.00 382.094
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32332 54.77011 84.55 191.399
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32417 54.77001 81.72 191.901
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32513 54.76989 79.91 241.481
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32444 54.76883 86.51 292.508
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32399 54.76826 87.70 294.455
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32360 54.76776 85.24 294.455
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31555 54.77823 54.36 178.562
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31648 54.77825 53.53 166.221
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31700 54.77839 52.23 153.88
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31555 54.78001 55.67 248.934
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31589 54.77950 53.95 242.729
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.31702 54.77851 51.55 236.525
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32202 54.76927 90.32 260.194
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32226 54.76846 89.26 231.344
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32319 54.76824 87.61 189.96
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32399 54.76826 87.70 210.966
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac -8.32441 54.76776 82.78 244.505
+OBJECT_STATIC w010n50_w009n54_2810930dcables00023.ac -8.38195 54.78236 21.04 90
+OBJECT_STATIC w010n50_w009n54_2810930dcables00037.ac -8.31973 54.77388 70.94 90
+OBJECT_STATIC w010n50_w009n54_2810930dcables00044.ac -8.31165 54.77547 74.28 90
+# END pylonsDetails_w010n50_w009n54_2810930

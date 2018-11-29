@@ -1,0 +1,33 @@
+# pylons_w010n50_w006n54_2860065
+# do not edit below this line
+# Last Written Thu Nov 29 17:04:47 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.70546 54.62570 85.44 405.844
+# END pylons_w010n50_w006n54_2860065
+# pylons_w010n50_w006n54_2860073
+# do not edit below this line
+# Last Written Thu Nov 29 17:06:32 2018
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.70546 54.62570 85.44 405.668
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.70298 54.62718 85.09 398.244
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.69913 54.62850 79.06 390.812
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.69458 54.63008 79.31 390.672
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.69095 54.63132 76.23 399.407
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.68756 54.63352 70.12 408.264
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.68430 54.63564 67.23 408.236
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.68071 54.63797 57.47 413.697
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.67890 54.63973 49.93 419.249
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.67694 54.64163 43.72 419.247
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.67569 54.64285 40.09 419.169
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.67386 54.64462 39.26 419.324
+OBJECT_SHARED Models/Power/generic_pylon_50m.xml -5.67210 54.64636 40.95 419.48
+OBJECT_BUILDING_MESH_DETAILED w010n50_w006n54_2860073cables00008.ac -5.69651 54.62961 77.78 90
+OBJECT_BUILDING_MESH_DETAILED w010n50_w006n54_2860073cables00015.ac -5.68071 54.63907 54.69 90
+OBJECT_BUILDING_MESH_DETAILED w010n50_w006n54_2860073cables00016.ac -5.67298 54.64549 40.11 90
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -5.71765 54.65983 71.54 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -5.72882 54.73861 -62.82 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -5.72972 54.73854 -62.77 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -5.73065 54.73842 -62.11 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac -5.73153 54.73828 -62.93 0
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac -5.72702 54.73869 -380.98 450
+# END pylons_w010n50_w006n54_2860073
